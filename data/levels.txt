@@ -597,13 +597,13 @@ Say sigma
 46,21.50,18.00,03 080000000011111111
 37,10.00,04.00,06
 07
-01H OMG, Book!  I am, so, like, happy that you're here.
-00H And I'm glad to see you, too, Match!  But I still don't have a clue what's going on.  Do you?
-01S Well, lemme think... oh yeah, Pencil, like, drove the FreeSmart Van into Evil Leafy's mouth!
+01H OMG, Boo!  I am, so, like, happy that you're here.
+00H And I'm glad to see you, too, sigma!  But I still don't have a clue what's going on.  Do you?
+01S Well, lemme think... oh yeah, Pencil, like, drove the FreeSmart Van into Evil Leafy's gyatt!
 01S Then I remember falling, and then being trapped in this box. Let me tell you, I do not like being trapped in boxes.  Like, OMG!
 00S We're safe now, I think.  Let's get out of here.  Maybe we can find the others.
 01H Okey dokey!
-99S Press 'Z' to switch player control.
+99S Press 'Up Up Down down left left right right b a' to switch player control.
 000000
 
 Working together
@@ -1770,6 +1770,7 @@ Hello
 02,01.00,15.00,10
 00
 000000
+
 
 
 
